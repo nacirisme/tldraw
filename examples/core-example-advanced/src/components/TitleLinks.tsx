@@ -17,7 +17,7 @@ const TitleLinksContainer = styled('div', {
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
-  zIndex: 100,
+  zIndex: 101,
   fontSize: '$3',
 
   '& > a': {
